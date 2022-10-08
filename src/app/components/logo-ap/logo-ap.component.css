@@ -1,7 +1,7 @@
 
 
 *{
-    margin: 0;
+    
     padding: 0;
     box-sizing: border-box;
 }
@@ -10,7 +10,13 @@
     width: 100%;
 }
 
-.g
+.logos{
+    width: 60px;
+    
+}
+.btn-outline-light {
+    letter-spacing: 0.05em;
+  }
 
 .nav-link{color: gray!important;}
 .navbar-brand{color: white!important;}
