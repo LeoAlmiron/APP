@@ -13,6 +13,7 @@ import { EducacionComponent } from './components/educacion/educacion.component';
 import { NgCircleProgressModule } from 'ng-circle-progress';
 import { HardandSoftComponent } from './components/hardand-soft/hardand-soft.component';
 import { ProyectsComponent } from './components/proyects/proyects.component';
+import { FooterComponent } from './components/footer/footer.component';
 
 
 @NgModule({
@@ -26,7 +27,8 @@ import { ProyectsComponent } from './components/proyects/proyects.component';
     ExperienciaLComponent,
     EducacionComponent,
     HardandSoftComponent,
-    ProyectsComponent
+    ProyectsComponent,
+    FooterComponent
   ],
   imports: [
     BrowserModule,
